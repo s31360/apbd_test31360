@@ -1,5 +1,4 @@
-﻿using System.Data.SqlClient;
-using apbd_test31360.Models;
+﻿using apbd_test31360.Models;
 using Microsoft.Data.SqlClient;
 
 namespace apbd_test31360.Repositories;

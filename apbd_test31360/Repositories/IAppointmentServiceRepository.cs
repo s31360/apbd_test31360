@@ -1,6 +1,4 @@
-﻿using apbd_test31360.Models;
-
-namespace apbd_test31360.Repositories;
+﻿namespace apbd_test31360.Repositories;
 
 public interface IAppointmentServiceRepository
 {
